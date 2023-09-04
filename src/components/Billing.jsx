@@ -22,13 +22,13 @@ const Billing = () => (
         <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        El costo por mes es de <strong>$120 pesos MXN</strong> con el pago
+        El costo por mes es de <strong>$150 pesos MXN</strong> con el pago
         mensual podrás acceder a mas de 13 cursos permanentemente hasta renovar
         tu mensualidad!
         <br /><br />
         <strong>
-          El costo por primera ves será de 50 pesos... ya que la mayoría de
-          nuestros cursos están siendo grabados en este preciso momento.
+          El costo inicial durante la primer temporada del lanzamiento de la academía será de 70 pesos... ya que la mayoría de
+          nuestros cursos están siendo grabados en este preciso momento. posteriormente, cuando la primera sección de cursos propuestos se hayan subido a la academía, serás notificado que la mensualidad próxima será de 150 pesos, posterior al mes ya pagado
         </strong>
       </p>
       {/* <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

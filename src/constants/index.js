@@ -79,7 +79,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "Cuando el CEO (Hiram) me dijo que quería hacer esto, me pareció una locura... pero bueno, él siempre tiene ideas locas y yo siempre lo apoyo asi que ya no me sorprenderá si mañana quiere crear una app con propósito de hacerse nacionalmente famosa!.",
-    name: "Dante Lugo",
+    name: "Dante",
     title: "Frontend Developer & Cofund de Salfox",
     img: SUBCEO_DANTE,
   },
